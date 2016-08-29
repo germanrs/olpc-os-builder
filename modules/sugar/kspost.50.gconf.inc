@@ -2,7 +2,10 @@ cat >/usr/share/glib-2.0/schemas/sugar.oob.gschema.override <<EOF
 [org.sugarlabs]
 show-logout=false
 
+maximum-number-of-open-activities=3
+
 [org.sugarlabs.font]
+default-face='OpenDyslexic'
 default-size=7
 
 [org.sugarlabs.power]
