@@ -8,6 +8,10 @@ maximum-number-of-open-activities=3
 default-face='OpenDyslexic'
 default-size=7
 
+[org.sugarlabs.user.background]
+image-path='/usr/share/backgrounds/fzt/kids.png'
+alpha-level='0.6'
+
 [org.sugarlabs.power]
 automatic=true
 
